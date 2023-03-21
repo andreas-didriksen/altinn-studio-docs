@@ -1,6 +1,6 @@
 ---
 title: Introkurs
-description: Et kursopplegg for å lære seg apputvikling med Altinn Studio og lokale verktøy.
+description: Et kursopplegg for å lære seg apputvikling med Altinn Studio og lokale verktøy med mer.
 linktitle: Introkurs
 tags: [apps, build, deploy, training]
 aliases:
