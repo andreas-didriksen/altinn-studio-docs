@@ -10,7 +10,7 @@ aliases:
 
 ## Overview
 
-A data element consist of two parts: its metadata document and the actual data blob. This API work primarily with the blob while keeping the metadata document updated.
+X data element consist of two parts: its metadata document and the actual data blob. This API work primarily with the blob while keeping the metadata document updated.
 
 **basePath**
 ```http
